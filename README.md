@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👩‍🎓 About me
-- Interested Data Analytics.
+- Bachelor in computer engineering
+- Interested in Data Analytics.
 - Learning Excel / Python / R .....
 - In the past, I used to code with Javascript/HTML, PHP and Laravel (not professionally) (still interested) 
 
